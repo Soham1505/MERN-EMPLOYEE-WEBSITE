@@ -37,11 +37,6 @@ npm install
 npm start
 Database: Import employeeDB.sql into MariaDB/MySQL.
 
-
-🤝 Contributions Welcome!
-Fork the repo & create a branch (feature-new-feature)
-
-Submit a Pull Request 🚀
-
 🔗 Live Demo: --
+
 📜 License: MIT
